@@ -1,0 +1,12 @@
+*.exe
+*.o
+*.obj
+*.out
+
+/build/
+/cmake-build-debug/
+/cmake-build-release/
+
+.vscode/
+.vs/
+*.user
