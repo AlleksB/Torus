@@ -6,8 +6,6 @@ It definitely won't beat Stockfish, but it runs fast and does talk standard UCI.
 
 Hopefully it will get better at chess soon.
 
----
-
 ## Features
 * Magic Bitboards
 * Alpha-Beta Pruning
@@ -25,8 +23,6 @@ Hopefully it will get better at chess soon.
 * PeSTO Evaluation
 * Piece-Square Tables
 * Static Exchange Evaluation (SEE)
-
----
 
 ## Build & Installation
 
